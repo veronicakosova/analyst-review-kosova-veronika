@@ -37,5 +37,5 @@
 
 ## Контакты
 
-- Telegram: ([https://t.me/vnksv])
+- Telegram: (https://t.me/vnksv)
 - Почта: veronica.kosova@yandex.ru
